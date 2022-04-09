@@ -1,0 +1,23 @@
+<svg width="313" height="186" viewBox="0 0 313 186" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M208.333 104.667H104.667L52.8333 156.5H156.5L208.333 104.667Z" stroke="black" stroke-width="0.647917"/>
+<path d="M208.333 1L156.5 52.8333V156.5L208.333 104.667V1Z" stroke="black" stroke-width="0.647917"/>
+<rect width="103.667" height="103.667" transform="matrix(-1 0 0 1 208.333 1)" stroke="black" stroke-width="0.647917"/>
+<rect width="103.667" height="103.667" transform="matrix(-1 0 0 1 156.5 52.8333)" stroke="black" stroke-width="0.647917"/>
+<path d="M104.667 1L52.8333 52.8333V156.5L104.667 104.667V1Z" stroke="black" stroke-width="0.647917"/>
+<path d="M208.333 1H104.667L52.8333 52.8333H156.5L208.333 1Z" stroke="black" stroke-width="0.647917"/>
+<path d="M312 104.667H208.333L156.5 156.5H260.167L312 104.667Z" stroke="black" stroke-width="0.647917"/>
+<path d="M312 1L260.167 52.8333V156.5L312 104.667V1Z" stroke="black" stroke-width="0.647917"/>
+<rect width="103.667" height="103.667" transform="matrix(-1 0 0 1 312 1)" stroke="black" stroke-width="0.647917"/>
+<rect width="103.667" height="103.667" transform="matrix(-1 0 0 1 260.167 52.8333)" stroke="black" stroke-width="0.647917"/>
+<path d="M208.333 1L156.5 52.8333V156.5L208.333 104.667V1Z" stroke="black" stroke-width="0.647917"/>
+<path d="M312 1H208.333L156.5 52.8333H260.167L312 1Z" fill="black" stroke="black" stroke-width="0.647917"/>
+<path d="M312 104.667L260.167 156.5V260.167L312 208.333V104.667Z" fill="black" stroke="black" stroke-width="0.647917"/>
+<rect width="103.667" height="103.667" transform="matrix(-1 0 0 1 312 104.667)" stroke="black" stroke-width="0.647917"/>
+<rect width="103.667" height="103.667" transform="matrix(-1 0 0 1 260.167 156.5)" stroke="black" stroke-width="0.647917"/>
+<path d="M208.333 104.667L156.5 156.5V260.167L208.333 208.333V104.667Z" stroke="black" stroke-width="0.647917"/>
+<path d="M312 104.667H208.333L156.5 156.5H260.167L312 104.667Z" stroke="black" stroke-width="0.647917"/>
+<path d="M156.5 156.5L104.667 208.333V312L156.5 260.167V156.5Z" stroke="black" stroke-width="0.647917"/>
+<rect width="103.667" height="103.667" transform="matrix(-1 0 0 1 156.5 156.5)" stroke="black" stroke-width="0.647917"/>
+<path d="M52.8333 156.5L0.999979 208.333V312L52.8333 260.167V156.5Z" stroke="black" stroke-width="0.647917"/>
+<path d="M156.5 156.5H52.8333L0.999998 208.333H104.667L156.5 156.5Z" stroke="black" stroke-width="0.647917"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="350" height="350" viewBox="0 0 484 484" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M322 162H162L82 242H242L322 162Z" stroke="black"/>
+<path d="M322 2L242 82V242L322 162V2Z" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 322 2)" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 242 82)" stroke="black"/>
+<path d="M162 2L82 82V242L162 162V2Z" stroke="black"/>
+<path d="M322 2H162L82 82H242L322 2Z" stroke="black"/>
+<path d="M482 162H322L242 242H402L482 162Z" stroke="black"/>
+<path d="M482 2L402 82V242L482 162V2Z" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 482 2)" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 402 82)" stroke="black"/>
+<path d="M322 2L242 82V242L322 162V2Z" stroke="black"/>
+<path d="M482 2H322L242 82H402L482 2Z" fill="black" stroke="black"/>
+<path d="M482 322H322L242 402H402L482 322Z" stroke="black"/>
+<path d="M482 162L402 242V402L482 322V162Z" fill="black" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 482 162)" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 402 242)" stroke="black"/>
+<path d="M322 162L242 242V402L322 322V162Z" stroke="black"/>
+<path d="M482 162H322L242 242H402L482 162Z" stroke="black"/>
+<path d="M242 402H82L2 482H162L242 402Z" stroke="black"/>
+<path d="M242 242L162 322V482L242 402V242Z" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 242 242)" stroke="black"/>
+<rect width="160" height="160" transform="matrix(-1 0 0 1 162 322)" fill="black" stroke="black"/>
+<path d="M82 242L2 322V482L82 402V242Z" stroke="black"/>
+<path d="M242 242H82L2 322H162L242 242Z" stroke="black"/>
+</svg>
